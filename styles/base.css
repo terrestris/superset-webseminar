@@ -1,0 +1,67 @@
+:root {
+    --terrestris-blue: #002565;
+    --terrestris-orange: #f9b820;
+  }
+
+.bg-barBottom>div:nth-of-type(1) {
+    background-color: var(--terrestris-orange);
+}
+
+.bg-barBottom>div:nth-of-type(n+2) {
+    background-color: var(--terrestris-blue);
+}
+
+
+.slidev-layout h1+p {
+    margin-top: -0.5rem;
+    margin-bottom: 0;
+    opacity: 1;
+}
+
+.slidev-layout h1,h2 {
+    color: #002565;
+}
+
+.col-right {
+    padding-left: 1.5vw;
+}
+
+.text-m {
+    font-size: x-large;
+}
+
+.container {
+    display: flex;
+    gap: 10px;
+}
+.box {
+    flex: 1;
+    padding: 20px;
+    background-color: rgba(173, 216, 230, 0);
+    border: 0px solid #ccc;
+    border-right-width: 1px;
+}
+.box:last-child {
+    border-right: none;
+}
+
+ul li::marker {
+    color: #002565; /* Change to any color */
+    font-size: 1.5em; /* Adjust size if needed */
+}
+.logos-end {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.logos-end {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.logos-end img {
+    width: 100px; /* Adjust size as needed */
+    height: auto;
+}

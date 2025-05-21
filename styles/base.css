@@ -65,3 +65,58 @@ ul li::marker {
     width: 100px; /* Adjust size as needed */
     height: auto;
 }
+
+.superset-header {
+  display: flex !important;
+  flex-direction: row;
+}
+
+a .superset-header img {
+  height: 1.1rem;
+}
+
+.superset-header img {
+  height: 2.25rem;
+  width: auto;
+}
+
+.superset-header span {
+  flex: 1;
+}
+
+.slidev-layout a {
+  border-style: none;
+}
+
+.fund-me-badge {
+  display: inline-block;
+  padding: 0.25em 0.6em;
+  font-size: 40%;
+  font-weight: 600;
+  color: #fff;
+  background-color: #d9534f; /* Bootstrap red */
+  border-radius: 1em;
+  vertical-align: middle;
+  line-height: 1;
+  white-space: nowrap;
+}
+
+.superset-logo-start img {
+  width: 400px;
+}
+
+.dashboard-image {
+  height: 150px;
+  width: auto;
+  position: fixed;
+  bottom: 40px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.18), 0 1.5px 4px rgba(0,0,0,0.12);
+  border-radius: 2px;
+}
+
+  .header-logo {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 9rem;
+  }

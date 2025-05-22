@@ -117,7 +117,7 @@ layout: two-cols-header
 - Breite Palette an Visualisierungen
 - Dashboard- und Cross-Filter
 - Automatische Datenaktualisierung
-- Verknüpfung mit existierenden Datenbanken
+- Verknüpfung mit existierenden Datenquellen
 
 <img class="dashboard-image" src="/dashboard-screenshot.png" />
 

@@ -104,7 +104,7 @@ layout: two-cols-header
 - Apache Software Foundation
 - Große und aktive Community
 - Lizenz: Apache-2.0
-- Integrierbar in bestehende Stacks
+- Integrierbar in bestehende Systeme
 
 <img class="dashboard-image" src="/dashboard-screenshot2.png"/>
 

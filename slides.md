@@ -164,7 +164,7 @@ layout: two-cols-header
 ---
 
 ::title::
-# ⚡ Szenario 2: Energie
+# ⚡ Szenario 2: Erneuerbare Energien
 
 ::left::
 ## Ausgangssituation

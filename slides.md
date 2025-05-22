@@ -126,7 +126,7 @@ layout: two-cols-header
 ---
 
 ::title::
-# 🚴 Szenario 1: Radverkehr
+# 🚴 Szenario 1: Smart Cities - Verkehrsplanung
 
 ::left::
 ## Ausgangssituation
